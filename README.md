@@ -90,15 +90,9 @@ I enjoy learning by building and fixing practical systems such as POS systems, d
 Full-Stack Web Development
 ReactJS and TypeScript
 Spring Boot REST APIs
-Laravel API Development
-MySQL Database Design
+Web Application Security
 Authentication and Authorization
-Dashboard Development
-POS and Business System Development
 IT Support and Troubleshooting
 Computer Hardware Basics
-Windows and Linux System Usage
 Basic Networking
-Git and GitHub Workflow
-Cloudflare and Web Deployment
-Web Application Security
+
