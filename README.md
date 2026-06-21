@@ -41,8 +41,6 @@ I enjoy learning by building and fixing practical systems such as POS systems, d
 - Frontend UI/UX Implementation
 - Backend API Design and Integration
 - Authentication and Authorization
-- Web Application Security
-- Payment and Notification System Integration
 
     </td>
     <td valign="top" width="50%">
