@@ -93,8 +93,6 @@ I enjoy learning by building and fixing practical systems such as POS systems, d
 Full-Stack Web Development
 ReactJS and TypeScript
 Spring Boot REST APIs
-Web Application Security
-Authentication and Authorization
 IT Support and Troubleshooting
 Computer Hardware Basics
 Basic Networking
