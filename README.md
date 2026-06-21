@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:nypanha0325@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email-blue?style=flat&logo=gmail">
   </a>
-  <a href="https://github.com/Nha0325">
+  <a href="https://github.com/Ny-Panha">
     <img src="https://img.shields.io/badge/GitHub-Nha0325-black?style=flat&logo=github">
   </a>
 </p>
@@ -53,7 +53,7 @@ My work focuses on building practical web applications with clean user interface
 ### Database, Tools & Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,idea,postman,docker,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,postman,docker,cloudflare" />
 </p>
 
 ---
