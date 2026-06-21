@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/nypanha0325@gmail.com-blue?style=flat&logo=gmail">
   </a>
   <a href="https://github.com/Ny-Panha">
-    <img src="https://img.shields.io/badge/Ny-Panha--black?style=flat&logo=github">
+    <img src="https://img.shields.io/badge/Ny Panha--black?style=flat&logo=github">
   </a>
 </p>
 
