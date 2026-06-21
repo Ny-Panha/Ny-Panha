@@ -1,4 +1,4 @@
-<h1 align="center">Nha</h1>
+<h1 align="center">Ny Panha</h1>
 
 <h3 align="center">Full-Stack Web Development Student</h3>
 
@@ -19,7 +19,7 @@
 
 ## Professional Summary
 
-I am an Information Technology student focused on full-stack web development, backend systems, and secure application design.
+I am Ny Panha, an Information Technology student focused on full-stack web development, backend systems, and secure application design.
 
 My work focuses on building practical web applications with clean user interfaces, structured backend APIs, relational databases, authentication, and production-ready architecture.
 
