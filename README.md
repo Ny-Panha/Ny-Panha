@@ -13,7 +13,9 @@
   <a href="https://github.com/Ny-Panha">
     <img src="https://img.shields.io/badge/GitHub-Ny--Panha-black?style=flat&logo=github">
   </a>
-  <img src="https://img.shields.io/badge/BBU-Battambang-green?style=flat">
+  <a href="https://www.google.com/maps/search/?api=1&query=Build%20Bright%20University%20Battambang%20Campus" target="_blank">
+  <img src="https://img.shields.io/badge/Map-BBU%20Battambang-green?style=flat&logo=googlemaps&logoColor=white">
+</a>
   <img src="https://img.shields.io/badge/Year%204-Semester%201-blue?style=flat">
 </p>
 
